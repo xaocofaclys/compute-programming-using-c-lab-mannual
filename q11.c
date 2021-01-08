@@ -1,3 +1,4 @@
+//Write a program to demonstrate thee working of basic operators in c.
 #include<stdio.h>
 #include<stdlib.h>
 int main(void){
